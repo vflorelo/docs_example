@@ -1,0 +1,4 @@
+title: "Título que aparecerá en la página web"
+logo: images/atglogo.png
+execute:
+  execute_notebooks: "off"
